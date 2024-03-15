@@ -1,0 +1,38 @@
+body{
+    display: flex;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+#nav{
+    min-width: 100px;
+    margin-top: 37px;
+    margin-right: 30px;
+}
+
+#CA{
+    text-align: center;
+}
+
+#Menu{
+    vertical-align: top;
+}
+
+#Good{
+    background-color: green;
+}
+
+#Bad{
+    background-color: red;
+}
+
