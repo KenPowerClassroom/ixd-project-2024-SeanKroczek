@@ -29,10 +29,20 @@ p{
 }
 
 #Good{
-    background-color: green;
+    background-color: greenyellow;
 }
 
 #Bad{
     background-color: red;
 }
+
+#audit td{
+    width: 200px;
+    vertical-align: top;
+}
+#apps
+{
+    text-align: center;
+}
+
 
