@@ -36,9 +36,18 @@ p{
     background-color: red;
 }
 
+#Okay{
+    background: orange;
+}
+
 #audit td{
     width: 200px;
     vertical-align: top;
+    border: 1px solid black;
+}
+
+#audit{
+    border-collapse: collapse;
 }
 #apps
 {
